@@ -30,5 +30,5 @@ body {
     border-radius: 3px;
     padding: 1em;
     color: var(--branco-principal);
-    display: inline-block;
+    display: block;
 }
