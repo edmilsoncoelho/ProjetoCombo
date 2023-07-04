@@ -24,3 +24,11 @@ body {
 .container {
     height: 100vh;
 }
+
+.container__botao {
+    background-color: var(--botao-azul);
+    border-radius: 3px;
+    padding: 1em;
+    color: var(--branco-principal);
+    display: inline-block;
+}
